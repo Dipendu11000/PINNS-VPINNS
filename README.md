@@ -26,15 +26,15 @@ Output of the VPINNS and PINNS
 <div style="display: flex; justify-content: space-around;">
     <figure>
         <img src="exact_solution_PINN.png" alt="Image 1">
-        <figcaption style="text-align: center;">Image 1 Caption</figcaption>
+        <figcaption style="text-align: center;">Exact Solution_PINN</figcaption>
     </figure>
     <figure>
         <img src="predicted_solution_PINN.png" alt="Image 2">
-        <figcaption style="text-align: center;">Image 2 Caption</figcaption>
+        <figcaption style="text-align: center;">Predicted Solution_PINN</figcaption>
     </figure>
     <figure>
         <img src="error_PINN.png" alt="Image 3">
-        <figcaption style="text-align: center;">Image 3 Caption</figcaption>
+        <figcaption style="text-align: center;">Error_PINN</figcaption>
     </figure>
 </div>
 
